@@ -1,0 +1,76 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        12613247082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/leminhson4848-eng/Skins/refs/heads/main/glasscanon.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12613247957,
+        12613248221,
+        13158330479,
+        13158330555,
+        13158330666,
+        13189734130,
+        12613247490,
+        12613248825
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "reload",
+      "replace_ids": [
+        13154930776,
+        13154926508
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "shot",
+      "replace_ids": [
+        13110197302,
+        13110197220
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134885549628226
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        13154853798
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14138257464
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13154906500
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14138270478
+    },
+    {
+      "name": "reload anim",
+      "replace_ids": [
+        13154926508,
+        13154930776
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    }
+  ]
+}
